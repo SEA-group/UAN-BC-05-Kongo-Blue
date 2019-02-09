@@ -1,0 +1,14 @@
+<JD049_Director_Type_94_10m_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_10m_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_10m_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_10m_a.dds	</Texture>
+	</property>
+</JD049_Director_Type_94_10m_wire.mfm>
