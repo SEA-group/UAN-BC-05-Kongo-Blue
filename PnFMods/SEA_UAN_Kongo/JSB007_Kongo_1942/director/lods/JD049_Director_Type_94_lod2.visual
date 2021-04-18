@@ -47,7 +47,7 @@
 			<primitive>	Type94_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_10m.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -61,7 +61,7 @@
 			<primitive>	Type94_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_10m_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
