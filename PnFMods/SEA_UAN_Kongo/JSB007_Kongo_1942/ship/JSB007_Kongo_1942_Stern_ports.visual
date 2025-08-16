@@ -1,14 +1,7 @@
 <JSB007_Kongo_1942_Stern_ports.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Stern_ports	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
 				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
@@ -16,171 +9,192 @@
 				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_FX_Fire_4	</identifier>
+				<identifier>	Stern_ports	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.2750 -5.6133 1.0000	</row3>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_steam_right	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.5230 0.2327 -5.0754 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_RepairLight_left_2	</identifier>
-				<transform>
-					<row0>	-0.0974 0.0000 0.9952 0.0000	</row0>
-					<row1>	-0.0066 1.0000 -0.0006 0.0000	</row1>
-					<row2>	-0.9952 -0.0067 -0.0974 0.0000	</row2>
-					<row3>	-0.7142 0.2716 -3.5067 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTraceBack	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -7.3756 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.2310 -0.4424 -5.7022 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.4573 -0.3690 -5.1954 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.2310 -0.4424 -5.7022 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace_screw_4	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.4573 -0.3690 -5.1953 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JC_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.0000 0.4414 -3.3455 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_JGM_4	</identifier>
-				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.0002 0.4023 -4.3822 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Ship_death_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -3.2779 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM001_Propeller3_L	</identifier>
-				<transform>
-					<row0>	0.9671 0.2545 0.0000 0.0000	</row0>
-					<row1>	-0.2545 0.9671 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.2310 -0.4424 -5.7022 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM001_Propeller3_L_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.9663 0.2557 -0.0313 0.0000	</row0>
-					<row1>	-0.2555 0.9668 0.0083 0.0000	</row1>
-					<row2>	0.0324 0.0000 0.9995 0.0000	</row2>
-					<row3>	-0.4573 -0.3690 -5.1954 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM032_Propeller3_R	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.2310 -0.4424 -5.7022 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM032_Propeller3_R_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.9995 0.0000 0.0312 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-0.0312 0.0000 0.9995 0.0000	</row2>
-					<row3>	0.4573 -0.3690 -5.1953 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM044_After_Capstan	</identifier>
-				<transform>
-					<row0>	1.5862 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.5862 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.5862 0.0000	</row2>
-					<row3>	0.0000 0.2877 -5.2215 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0002 0.5214 -7.3358 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3_INDEX_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0002 0.3468 -7.3043 1.0000	</row3>
-				</transform>
+				<node>
+					<identifier>	HP_FX_Fire_4	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.2750 -5.6133 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Flood_steam_right	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.5230 0.2327 -5.0754 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_RepairLight_left_2	</identifier>
+					<transform>
+						<row0>	-0.0974 0.0000 0.9952 0.0000	</row0>
+						<row1>	-0.0066 1.0000 -0.0006 0.0000	</row1>
+						<row2>	-0.9952 -0.0067 -0.0974 0.0000	</row2>
+						<row3>	-0.7142 0.2716 -3.5067 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTraceBack	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -7.3756 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.2310 -0.4424 -5.7022 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.4573 -0.3690 -5.1954 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.2310 -0.4424 -5.7022 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace_screw_4	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.4573 -0.3690 -5.1953 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JC_1	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	0.0000 0.4414 -3.3455 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGM_4	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.0002 0.4023 -4.3822 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -3.2779 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM001_Propeller3_L	</identifier>
+					<transform>
+						<row0>	0.9671 0.2545 0.0000 0.0000	</row0>
+						<row1>	-0.2545 0.9671 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.2310 -0.4424 -5.7022 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM001_Propeller3_L_INDEX_1	</identifier>
+					<transform>
+						<row0>	0.9663 0.2557 -0.0313 0.0000	</row0>
+						<row1>	-0.2555 0.9668 0.0083 0.0000	</row1>
+						<row2>	0.0324 0.0000 0.9995 0.0000	</row2>
+						<row3>	-0.4573 -0.3690 -5.1954 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM032_Propeller3_R	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.2310 -0.4424 -5.7022 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_CM032_Propeller3_R_INDEX_1	</identifier>
+					<transform>
+						<row0>	0.9995 0.0000 0.0312 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-0.0312 0.0000 0.9995 0.0000	</row2>
+						<row3>	0.4573 -0.3690 -5.1953 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM044_After_Capstan	</identifier>
+					<transform>
+						<row0>	1.5862 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.5862 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.5862 0.0000	</row2>
+						<row3>	0.0000 0.2877 -5.2215 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.0002 0.5214 -7.3358 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM125_Signal_Lamp_3_INDEX_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.0002 0.3468 -7.3043 1.0000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.0667 -0.0667 -0.0667	</min>
 		<max>	0.0667 0.0667 0.0667	</max>
 	</boundingBox>
+	<renderSets />
+	<lods>
+		<lod>
+			<extent>	200.000000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets />
+		</lod>
+	</lods>
 </JSB007_Kongo_1942_Stern_ports.visual>
